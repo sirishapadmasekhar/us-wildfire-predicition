@@ -13,10 +13,3 @@ Any feedback or clarification are welcome. Would love to see more independent an
 3. Install the necessary packages in python, refer requirements.txt to get started. 
 4. Change the path of the data directory. 
 5. Run to see desired output. 
-
-## AUTHOR
-
-Sirisha Jotheeswaran Padmasekhar 
-
-To understand more about the project and the code implementation steps, read the blog [here](https://medium.com/@sirishapadmasekhar/the-wildfire-prediction-9c565e2afa4e). 
-
